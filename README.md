@@ -2,7 +2,7 @@
 LPG충전소를 활용한 서울특별시 내 On-Site 방식 수소충전소 입지 선정
 
 ## Datasets
-[Google Drive] (https://drive.google.com/drive/folders/1MwA77gfnpNr9JlC2tdMx88QqMTjPUL__?usp=sharing)
+[Google Drive](https://drive.google.com/drive/folders/1MwA77gfnpNr9JlC2tdMx88QqMTjPUL__?usp=sharing)
 1. 서울 행정구역 (법정도)
 2. 서울시 자동차 등록현황 (동별, 연료별)
 3. 수소충전소 현황
